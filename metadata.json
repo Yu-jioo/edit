@@ -1,0 +1,6 @@
+{
+  "name": "Quote Video Studio — استوديو فيديو الاقتباسات",
+  "description": "أداة احترافية لصناع المحتوى على يوتيوب لتصميم وتصدير مقاطع فيديو اقتباسات عربية بجودة 4K و 1080p باستخدام 6 قوالب سينمائية وفنية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
